@@ -26,6 +26,7 @@ main {
 input, button {
     max-width: 60%;
     margin: 0.8rem;
+    outline: none;
 }
 
 h1 {
